@@ -1,5 +1,5 @@
 var sound = new Howl({
-    urls: ['song/background.mp3'],
+    urls: ['background.mp3'],
     loop: true
   });
 
